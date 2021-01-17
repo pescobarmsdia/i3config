@@ -1,1 +1,1 @@
-# i3 Configuration
+# i3config
